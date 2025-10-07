@@ -1,4 +1,3 @@
-```markdown
 # OECD Labour Force Analysis
 
 ## Project Overview
@@ -8,7 +7,6 @@ This project analyzes OECD labor force participation data, comparing trends betw
 ## File Structure
 
 ```
-.
 ├── code/
 │   └── analyze_data.ipynb        # Jupyter Notebook containing the analysis
 ├── data/
