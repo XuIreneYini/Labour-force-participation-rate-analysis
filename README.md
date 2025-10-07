@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project analyzes OECD labor force participation data, comparing trends between the USA and the EU-27 from 2018 to 2024.
+Data source: OECD data employment indicators
 
 ## File Structure
 
@@ -45,8 +46,8 @@ pip install -r requirements.txt
 
 ## Key Findings
 
-- The US labor participation rate declined during the pandemic but has been recovering.
-- The EU labor participation rate shows an upward trend after 2022.
+- Both the US and EU labor participation rate declined during the pandemic but has been recovering.
+- The overall labor participation rate in the EU is 15% lower than that in the US.
 
 ## License
 
