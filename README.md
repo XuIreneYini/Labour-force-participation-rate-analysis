@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes OECD labor force participation data, comparing trends between the USA and the EU-27 from 2018 to 2024.
-Data source: OECD data employment indicators
+ Data sourced from the OECD's employment indicators.
 
 ## File Structure
 
@@ -41,7 +41,6 @@ pip install -r requirements.txt
 ## Analysis Details
 
 - Data Cleaning: Extracts necessary information from raw data.
-- Descriptive Statistics: Calculates average labor participation rates.
 - Visualization: Plots labor participation trends for the USA and the EU.
 
 ## Key Findings
